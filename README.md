@@ -1,4 +1,4 @@
-# liri-node-app
+# Liri-node-app
 
 Liri uses Node JS technology and below API to search from command line.
 Liri Node app use spotify, omdb and bandsintown API to search song, movie and concert detail.
