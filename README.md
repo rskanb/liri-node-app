@@ -10,6 +10,11 @@ Like Siri, User provide command line input what to search for and respective mov
 ![First Two searches returned by Liri after User Command Line Input]
 
 <a href="https://imgflip.com/gif/2oduen"><img src="https://i.imgflip.com/2oduen.gif" title="made at imgflip.com"/></a>
+
+
+
 #2nd movie demonstrate Liri responded after user command line input. Text file was appended successfully.
 
-![Second Two searches returned by Liri after User Command Line Input](assets/liriAPICall2.mov)
+![Second Two searches returned by Liri after User Command Line Input]
+
+<a href="https://imgflip.com/gif/2oduqc"><img src="https://i.imgflip.com/2oduqc.gif" title="made at imgflip.com"/></a>
