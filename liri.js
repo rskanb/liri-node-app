@@ -38,7 +38,7 @@ switch (action){
 
 //Function which calls bands in town API 
 function concertAPI(){
-    axios.get(`https://rest.bandsintown.com/artists/${liriSearch}/events?app_id=9379a25273d4a490d00899961b54488f`).then(
+    axios.get(`https://rest.bandsintown.com/artists/${liriSearch}/events?app_id={Insert API key}`).then(
         function(response){
             if(response){
                 var liri = `${liriSearch} Concert Detail \n===========`;
